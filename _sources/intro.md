@@ -28,7 +28,7 @@ Footer
 
 ::::
 
-::::{grid}
+::::{grid} 3
 :gutter:3
 
 :::{grid-item-card} titolo:Economia
