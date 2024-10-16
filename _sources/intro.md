@@ -5,14 +5,10 @@ Pagina principale per il materiale per le scuole superiori
 ::::{grid} 3
 :gutter: 3
 
-:::{grid-item-card} <!--titolo:Programmazione-->
+:::{grid-item-card}
 :link: https://basics2022.github.io/bbooks-programming-hs
 **Programmazione**
 ^^^
-<!--
-+++
-Footer
--->
 :::
 
 :::{grid-item-card} 
@@ -35,8 +31,6 @@ Footer
 :link: https://basics2022.github.io/bbooks-economics-hs
 **Economia**
 ^^^
-+++
-Footer
 :::
 
 :::{grid-item-card}
