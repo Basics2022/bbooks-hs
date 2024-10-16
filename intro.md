@@ -1,9 +1,49 @@
-# basics-book template
+# Basics per le scuole superiori
 
-If you want ot start a new basics-book, it could be a good idea to start from this template.
+Pagina principale per il materiale per le scuole superiori
 
-Please check out the Github repo of the project, [basics-book project](https://github.com/Basics2022).
+::::{grid}
+:gutter:3
+
+:::{grid-item-card} titolo:Programmazione
+Programmazione
+^^^
++++
+Footer
+:::
+
+:::{grid-item-card} titolo:Matematica
+Matematica
+^^^
++++
+Footer
+:::
+
+:::{grid-item-card} titolo:Fisica
+Fisica
+^^^
++++
+Footer
+:::
+
+::::
+
+::::{grid}
+:gutter:3
+
+:::{grid-item-card} titolo:Economia
+Economia
+^^^
++++
+Footer
+:::
+
+:::{grid-item-card}
+:::
+
+:::{grid-item-card}
+:::
+
+::::
 
 
-```{tableofcontents}
-```
