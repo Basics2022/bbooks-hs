@@ -2,8 +2,8 @@
 
 Pagina principale per il materiale per le scuole superiori
 
-::::{grid}
-:gutter:3
+::::{grid} 3
+:gutter: 3
 
 :::{grid-item-card} titolo:Programmazione
 Programmazione
@@ -28,8 +28,7 @@ Footer
 
 ::::
 
-::::{grid}
-:gutter:3
+::::{grid} 3
 
 :::{grid-item-card} titolo:Economia
 Economia
