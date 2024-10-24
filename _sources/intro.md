@@ -21,7 +21,7 @@ Pagina principale per il materiale per le scuole superiori. Questo sito fa parte
 :::::
 -->
 
-::::{grid} 3
+::::{grid} 1
 :gutter: 3
 
 :::{grid-item-card} 
