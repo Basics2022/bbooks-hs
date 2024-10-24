@@ -24,6 +24,12 @@ Pagina principale per il materiale per le scuole superiori. Questo sito fa parte
 :::
 
 :::{grid-item-card}
+:link: https://basics2022.github.io/bbooks-chemistry-hs
+**Chimica**
+^^^
+:::
+
+:::{grid-item-card}
 :link: https://basics2022.github.io/bbooks-economics-hs
 **Economia**
 ^^^
