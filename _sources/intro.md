@@ -25,7 +25,7 @@ Pagina principale per il materiale per le scuole superiori. Questo sito fa parte
 :gutter: 3
 
 :::{grid-item-card} 
-:img-top: media/hello_world.png
+<!-- :img-top: media/hello_world.png -->
 :link: https://basics2022.github.io/bbooks-programming-hs
 
 **Programmazione**
@@ -33,7 +33,7 @@ Pagina principale per il materiale per le scuole superiori. Questo sito fa parte
 :::
 
 :::{grid-item-card} 
-:img-top: media/coordinates.png
+<!-- :img-top: media/coordinates.png -->
 :link: https://basics2022.github.io/bbooks-math-miscellanea-hs
 
 **Matematica**
