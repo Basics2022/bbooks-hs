@@ -1,7 +1,23 @@
 (book:books-hs)=
 # Basics per le scuole superiori
 
-Pagina principale per il materiale per le scuole superiori. Questo sito fa parte del progetto [basics-book](https://github.com/Basics2022).
+Pagina principale per il materiale per le scuole superiori. Questo sito fa parte del progetto **basics-books**. 
+
+Pagina principale del progetto: [https://basics2022.github.io/bbooks](https://basics2022.github.io/bbooks)<br>
+Pagina Github: [basics-book](https://github.com/Basics2022)<br>
+
+```{dropbox} [Introduzione alla programmazione e al calcolo numerico](https://basics2022.github.io/bbooks-programming-hs)
+```
+```{dropbox} [Matematica](https://basics2022.github.io/bbooks-math-miscellanea-hs)
+```
+```{dropbox} [Fisica](https://basics2022.github.io/bbooks-physics-hs)
+```
+```{dropbox} [Chimica](https://basics2022.github.io/bbooks-chemistry-hs)
+```
+```{dropbox} [Economia](https://basics2022.github.io/bbooks-economics-hs)
+```
+
+
 
 <!--
 :::::{grid} 1
@@ -21,13 +37,13 @@ Pagina principale per il materiale per le scuole superiori. Questo sito fa parte
 :::::
 -->
 
+<!--
 ::::{grid} 1
 :gutter: 3
 
 <!-- :img-top: media/hello_world.png -->
 :::{grid-item-card} 
 :link: https://basics2022.github.io/bbooks-programming-hs
-
 **Programmazione**
 ^^^
 :::
@@ -35,7 +51,6 @@ Pagina principale per il materiale per le scuole superiori. Questo sito fa parte
 <!-- :img-top: media/coordinates.png -->
 :::{grid-item-card} 
 :link: https://basics2022.github.io/bbooks-math-miscellanea-hs
-
 **Matematica**
 ^^^
 :::
@@ -59,7 +74,7 @@ Pagina principale per il materiale per le scuole superiori. Questo sito fa parte
 :::
 
 ::::
-
+-->
 
 
 <!--
