@@ -6,6 +6,7 @@ Pagina principale per il materiale per le scuole superiori. Questo sito fa parte
 Pagina principale del progetto: [https://basics2022.github.io/bbooks](https://basics2022.github.io/bbooks)<br>
 Pagina Github: [basics-book](https://github.com/Basics2022)<br>
 
+
 ```{dropdown} [Introduzione alla programmazione e al calcolo numerico](https://basics2022.github.io/bbooks-programming-hs)
 ```
 ```{dropdown} [Matematica](https://basics2022.github.io/bbooks-math-miscellanea-hs)
@@ -16,6 +17,8 @@ Pagina Github: [basics-book](https://github.com/Basics2022)<br>
 ```
 ```{dropdown} [Economia](https://basics2022.github.io/bbooks-economics-hs)
 ```
+
+
 
 
 
